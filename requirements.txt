@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+scikit-learn
+requests
+hydra
+omegaconf
+pytest
+faker
+marshmallow_dataclass
